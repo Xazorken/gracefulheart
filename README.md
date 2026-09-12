@@ -38,11 +38,8 @@
 
 - 🏠 **Beranda & Ayat Harian**
   - Ringkasan ayat harian (*Verse of the Day*) untuk mengawali hari.
-  - Navigasi cepat ke Alkitab, HeartTalk Chat, dan Jurnal Refleksi.
-  - Tampilan statistik perenungan dan progres membaca.
-
-- 📝 **Jurnal Refleksi Spiritual**
-  - Catatan pribadi untuk menyimpan hasil perenungan dan doa harian.
+  - Navigasi cepat ke Alkitab dan HeartTalk Chat.
+  - Tampilan grafik suasana hati dan statistik aktivitas harian.
 
 - 🔐 **Autentikasi Pengguna**
   - Tampilan Login dan Pendaftaran pengguna yang aman dan elegan.

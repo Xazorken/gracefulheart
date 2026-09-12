@@ -8,7 +8,6 @@ import {
     Home,
     MessageCircleHeart,
     BookOpen,
-    BookMarked,
     Sun,
     Moon,
     Bell,
@@ -32,7 +31,6 @@ const navItems: NavItem[] = [
     { label: 'Home', labelId: 'Beranda', href: '/home', icon: Home },
     { label: 'HeartTalk AI', labelId: 'HeartTalk', href: '/heart-talk-ai-chat', icon: MessageCircleHeart, badge: 0 },
     { label: 'Bible', labelId: 'Alkitab', href: '/bible', icon: BookOpen },
-    { label: 'Journal', labelId: 'Jurnal', href: '/journal', icon: BookMarked },
 ];
 
 interface AppLayoutProps {

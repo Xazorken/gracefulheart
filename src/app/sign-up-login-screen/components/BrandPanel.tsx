@@ -47,7 +47,6 @@ export default function BrandPanel() {
                         { icon: '✨', text: 'Ayat harian yang disesuaikan dengan emosimu' },
                         { icon: '💬', text: 'HeartTalk AI — teman bicara alkitabiah' },
                         { icon: '📖', text: 'Alkitab LAI/TB lengkap dengan pencarian' },
-                        { icon: '📓', text: 'Jurnal doa & refleksi pribadi' },
                     ]?.map((feat) => (
                         <div key={`feat-${feat?.icon}`} className="flex items-center gap-3">
                             <span className="text-lg">{feat?.icon}</span>
